@@ -1,0 +1,20 @@
+server:
+  port: 8088
+
+dog:
+  name: 旺财
+  age: 3
+
+person:
+  name: xiaoming
+  age: 13
+  happy: false
+  birthday: 1998/11/23
+  maps: {k1:v1,K2:v2}
+  lists:
+    - code
+    - book
+    - car
+  dog:
+    name: 旺财
+    age: 45
