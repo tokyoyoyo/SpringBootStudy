@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/springboot-02-web/src/main/java/com/coder/controller/IndexController.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/springboot-02-web/src/main/resources/mapper/CityMapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/springboot-02-web/src/test/java/com/coder/Springboot02WebApplicationTests.java" dialect="GenericSQL" />
+  </component>
+</project>

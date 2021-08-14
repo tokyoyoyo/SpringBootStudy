@@ -5,11 +5,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/demo")
 public class DemoController {
 
-    @GetMapping("/echo")
+    @RequestMapping("/hello")
     public String echo(){
-        return "echo";
+        return "Hello, Spring Boot 2!";
     }
 }

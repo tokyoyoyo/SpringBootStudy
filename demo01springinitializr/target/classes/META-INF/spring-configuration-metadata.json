@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "dog",
+      "type": "com.coder.demo01springinitializr.pojo.Dog",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Dog"
+    },
+    {
+      "name": "person",
+      "type": "com.coder.demo01springinitializr.pojo.Person",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Dog"
+    },
+    {
+      "name": "dog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Dog"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.coder.demo01springinitializr.pojo.Dog",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.happy",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.coder.demo01springinitializr.pojo.Person"
+    }
+  ],
+  "hints": []
+}
